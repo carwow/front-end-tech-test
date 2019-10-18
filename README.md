@@ -18,7 +18,7 @@ Use the following endpoints to display the cars' information:
 ## Tools and frameworks
 
 - Use a solution of your choice, you may use a JS framework or vanilla JS if you wish
-- You may use a CSS pre-processor, UI toolkit or anything that can help with styling, but simple and row CSS is also fine
+- You may use a CSS pre-processor, UI toolkit or anything that can help with styling, but simple and raw CSS is also fine
 - Any library, tooling or compiled language can be used if it helps, but feel free to keep it simple
 
 ## Assessment
