@@ -6,7 +6,7 @@ Our design team came up with the wireframes below for this purpose.
 
 Users can access a list of cars with their primary information. Items in the list can be clicked/tapped to access further details. You can decide which information is relevant to show on each screen.
 
-There is no time limit and we appreciate you taking the time to complete the test. Sticking to the brief is perfectly fine for us, but if you wish to add any functionality or visual delight, go ahead!
+There is no time limit for this test and we appreciate you taking the time to complete it. Sticking to the brief is perfectly fine for us, but if you wish to add any functionality or visual delight, go ahead!
 
 ## API
 
