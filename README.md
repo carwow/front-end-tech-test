@@ -12,7 +12,7 @@ There is no time limit and we appreciate you taking the time to complete the tes
 
 Use the following endpoints to display the cars' information:
 
-- List cars: <https://warm-dawn-92320.herokuapp.com/models>
+- List of cars: <https://warm-dawn-92320.herokuapp.com/models>
 - Details of a single car: <https://warm-dawn-92320.herokuapp.com/model/1> (replace 1 with the ID of the car)
 
 ## Tools and frameworks
