@@ -37,3 +37,5 @@ Use the following endpoints to display the cars' information:
 
 Please send us a link to your repository or an archive of your project.
 If you can host your project on a free server (Github pages, Heroku, Netlify) for us to see it, that would be great. Likewise, send us instructions on how to run it locally and that will do too.
+
+Thank you for your interest and application, we look forward to seeing your solution!
