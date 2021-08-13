@@ -12,9 +12,9 @@ This is the list of functionalities we would like, from most to least desirable:
 
 ## Designs
 
-![Cards grid](img/grid.jpg "Cards grid")
+![Cards grid](img/grid.jpg "Cards grid" =250x)
 
-![Delete modal](img/modal.jpg "Delete modal")
+![Delete modal](img/modal.jpg "Delete modal" =250x)
 
 Users can access a list of cars with their primary information. Items in the list can be clicked/tapped to access further details. You can decide which information is relevant to show on each screen.
 
