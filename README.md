@@ -7,16 +7,13 @@ This is the list of functionalities we would like, from most to least desirable:
 - A customer can view 8 cars that carwow recommends, displayed in cards with their picture, name and price.
 - On a mobile or tablet device, the cards are displayed in a single column.
 - On a desktop computer (≥ 1024px), the cards are displayed in rows of 4 cards maximum.
-- A customer can remove a card from the page if they dislike the car.
+- A customer can remove a card from the page if they dislike the car. The deletion won't be persisted for now. Hiding or removing the card from the DOM is enough.
 - Before a card is deleted, a modal opens to ask for confirmation. "Cancel" and "✕" close the modal. "Delete" close the modal and delete the card.
 
 ## Designs
 
-![Cards grid](img/grid.jpg "Cards grid" =250x)
-
-![Delete modal](img/modal.jpg "Delete modal" =250x)
-
-Users can access a list of cars with their primary information. Items in the list can be clicked/tapped to access further details. You can decide which information is relevant to show on each screen.
+<img src="img/grid.jpg" alt="Cards grid" width="300"/>
+<img src="img/modal.jpg" alt="Delete modal" width="300"/>
 
 ## API
 
