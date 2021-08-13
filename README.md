@@ -12,8 +12,8 @@ This is the list of functionalities we would like, from most to least desirable:
 
 ## Designs
 
-<img src="img/grid.jpg" alt="Cards grid" width="300"/>
-<img src="img/modal.jpg" alt="Delete modal" width="300"/>
+<img src="img/grid.jpg" alt="Cards grid" width="600"/>
+<img src="img/modal.jpg" alt="Delete modal" width="600"/>
 
 ## API
 
