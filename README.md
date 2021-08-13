@@ -12,7 +12,4 @@ Users can access a list of cars with their primary information. Items in the lis
 
 ## API
 
-Use the following endpoints to display the cars' information:
-
-- List of cars: <https://warm-dawn-92320.herokuapp.com/models>
-- Details of a single car: <https://warm-dawn-92320.herokuapp.com/model/1> (replace 1 with the ID of the car)
+Use the following endpoint to display the list of cars: <https://boiling-chamber-77385.herokuapp.com/models>
